@@ -9,4 +9,4 @@ Este projeto é um sistema de gerenciamento para academias, desenvolvido em **Ja
 - **Java Swing**: Interface gráfica do usuário (GUI)
 - **JDBC**: Conexão com banco de dados
 
-
+##![WhatsApp Image 2024-10-09 at 23 25 43](https://github.com/user-attachments/assets/5a75a926-561b-4521-8d20-526df951f5c6)
